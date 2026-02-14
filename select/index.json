@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クソラスト",
+  "base_artist": "アンと私",
+  "createdAt": "2026-02-14T02:44:04.964286Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クソラスト",
+      "artist": "アンと私",
+      "has_synced": false,
+      "path": "select/pl_01_クソラスト_アンと私.txt"
+    }
+  ]
+}
